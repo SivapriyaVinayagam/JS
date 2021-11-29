@@ -1,0 +1,15 @@
+#Man{
+    color: red;
+    visibility: hidden;
+}
+#start{
+    float: right;
+}
+body{
+    background-color: rosybrown;
+    padding: 10%;
+}
+#button{
+    text-align: center;
+}
+
